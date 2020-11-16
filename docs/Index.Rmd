@@ -179,7 +179,7 @@ arrange(original_starwars, hair_color)
 Sort `original_starwars` by `height` and `mass`, descending. 
 
 ```{r arrange-ex-02, eval=FALSE}
-arrange(original_starwars, desc(height, mass))
+arrange(original_starwars, desc(______, ____))
 ```
 
 ### Arrange solution 2
